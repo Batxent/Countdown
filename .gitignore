@@ -1,0 +1,7 @@
+Countdown.xcodeproj/xcuserdata/
+Countdown.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+Countdown.xcodeproj/project.xcworkspace/xcuserdata/
